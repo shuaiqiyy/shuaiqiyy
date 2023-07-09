@@ -13,7 +13,7 @@
 * 目前正在学习c++开发
 * 对二次元女生极其感兴趣
 * 喜欢，你可以通过以下渠道找到我
-   Blog：shuaiqiyy.github.com
+*Blog：shuaiqiyy.github.com
     
 
 几たびの戦场を越えて不败.（纵横无数战场而不败）
