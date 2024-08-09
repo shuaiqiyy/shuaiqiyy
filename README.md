@@ -17,6 +17,8 @@
 
 几たびの戦场を越えて不败.（纵横无数战场而不败）
 
-|![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shuaiqiyy)|![IceEnd's GitHub stats](https://github-immortality.vercel.app/api?username=shuaiqiyy)|
-|![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shuaiqiyy)|![](https://stats.justsong.cn/api/leetcode?username=shuaiqiyy&cn=true)|
-|![GitHub Streak](https://streak-stats.demolab.com/?user=shuaiqiyy)|![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=shuaiqiyy)|
+| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shuaiqiyy) | ![IceEnd's GitHub stats](https://github-immortality.vercel.app/api?username=shuaiqiyy) |
+
+| ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shuaiqiyy) | ![](https://stats.justsong.cn/api/leetcode?username=shuaiqiyy&cn=true) |
+
+| ![GitHub Streak](https://streak-stats.demolab.com/?user=shuaiqiyy) | ![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=shuaiqiyy) |
