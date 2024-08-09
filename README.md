@@ -20,7 +20,7 @@
 | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shuaiqiyy) | ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shuaiqiyy)| 
 | ------------- | ------------- |
 
-|![GitHub Streak](https://streak-stats.demolab.com/?user=shuaiqiyy) | ![](https://stats.justsong.cn/api/leetcode?username=shuaiqiyy&cn=true) | 
+| ![](https://stats.justsong.cn/api/leetcode?username=shuaiqiyy&cn=true) | ![GitHub Streak](https://streak-stats.demolab.com/?user=shuaiqiyy) |
 | ------------- | ------------- |
 
 ![IceEnd's GitHub stats](https://github-immortality.vercel.app/api?username=shuaiqiyy)
