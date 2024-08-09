@@ -1,4 +1,3 @@
-
 初次见面，   你好呀٩（●ᴗ●）۶
 
 —凭文学是无法打倒敌人的...能打倒敌人的学问只有化学和物理！
@@ -17,6 +16,10 @@
     
 
 几たびの戦场を越えて不败.（纵横无数战场而不败）
+
+| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shuaiqiyy) | ![IceEnd's GitHub stats](https://github-immortality.vercel.app/api?username=shuaiqiyy) |
+| ------------- | ------------- |
+
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shuaiqiyy)
 ![IceEnd's GitHub stats](https://github-immortality.vercel.app/api?username=shuaiqiyy)
