@@ -2,6 +2,8 @@
 
 初次见面，   你好呀！  ٩（●ᴗ●）
 
+![Typing SVG](https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text)
+
 > —凭文学是无法打倒敌人的...能打倒敌人的学问只有化学和物理！
 
 我是帅气怨言，一位十分“普通”的中学生，尽管你可能看不出来我是个中学生，但我确实啊，希望你能称呼我为帅气怨言,
