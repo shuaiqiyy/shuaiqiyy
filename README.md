@@ -19,5 +19,4 @@
 几たびの戦场を越えて不败.（纵横无数战场而不败）
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shuaiqiyy)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shuaiqiyy)
