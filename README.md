@@ -20,6 +20,4 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shuaiqiyy)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shuaiqiyy)
-
-![trophy](https://github-profile-trophy.vercel.app/?username=shuaiqiyy)
-
+![visitors](https://visitor-badge.glitch.me/badge?page_id=shuaiqiyy&left_color=green&right_color=red)
