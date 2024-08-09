@@ -2,7 +2,7 @@
 
 初次见面，   你好呀！  ٩（●ᴗ●）
 
-![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello,I'm,shuaiqiyy)
+![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello,I'mshuaiqiyy)
 
 > —凭文学是无法打倒敌人的...能打倒敌人的学问只有化学和物理！
 
